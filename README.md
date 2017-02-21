@@ -5,7 +5,7 @@ Hands-on training workshop to learn more about deploying and managing applicatio
 *	Overview of Cloud Foundry and how it works on Bluemix relating to services, buildpacks and architecture 
 *	Will cover services provided in Bluemix Dedicated versus Bluemix Local 
 *	How to effectively work with Cloud  Foundry in your organization, introduction to DevOps tools 
-Who is it for? 
+## Who is it for? 
 Targeted at people with little Bluemix experience and some experiencing delivering web-based applications.  If you’re curious to learn how Bluemix can help you focus on development, increased acceleration to market, and innovation, rather than infrastructure plumbing, this course is for you! 
 Requirements
 *	Linux, Windows or OS X (all 64bit)
